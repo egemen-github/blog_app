@@ -4,6 +4,8 @@ Basic blog app using Ruby on Rails.
 
 I have built this app according to [Rails Guide](https://guides.rubyonrails.org/getting_started.html)
 
+Visit here for [Live Preview on Heroku](https://young-retreat-88849.herokuapp.com/)
+
 
 * How to install Rails, create a new Rails application, and connect your application to a database.
 
